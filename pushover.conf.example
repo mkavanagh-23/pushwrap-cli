@@ -1,0 +1,5 @@
+# Copy this file to ~/.config/pushwrap/pushover.conf and fill in your values
+
+PUSHOVER_API_KEY=""
+PUSHOVER_USER_KEY=""
+PUSHOVER_TITLE="" # (Optional) Set the default title for pushover notifications (leave blank for 'Pushover')
